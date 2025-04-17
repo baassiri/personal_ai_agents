@@ -1,0 +1,26 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv*/
+.env
+*.env
+
+# VSCode settings
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Media output
+outbox/
+media/
+
+# Logs or temp
+*.log
+*.tmp
+*.temp
+*.bak
